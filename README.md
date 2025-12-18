@@ -8,7 +8,7 @@ The app provides cross-platform support for Android and Web, featuring online st
 ## 🎧 App Preview
 
 <p align="center">
-  <img src="Screenshots/mockup.jpg" width="300" alt="App Mockup"/>
+  <img src="Screenshots/kmp.jpg" width="300" alt="App Mockup"/>
 </p>
 
 ---
